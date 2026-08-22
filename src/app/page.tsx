@@ -45,7 +45,7 @@ export default function HomePage() {
           <span className="brand-mark">N</span>
           Northstar Studio
         </a>
-        <span className="availability"><i /> Taking on one project for Q4</span>
+        <span className="availability"><i /> Now booking select Q4 product work</span>
       </header>
 
       <section className="shell" id="top">
