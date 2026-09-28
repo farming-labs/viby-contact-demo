@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@farm.js/core':
-        specifier: 0.1.0-beta.106
-        version: 0.1.0-beta.106(@mikro-orm/core@7.1.13)(@prisma/client@6.19.3(typescript@5.9.3))(@types/node@26.2.0)(@xata.io/client@0.30.1(typescript@5.9.3))(crossws@0.4.12(srvx@1.0.5))(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))(jiti@2.7.0)(kysely@0.28.17)(lightningcss@1.33.0)(mongodb@6.21.0)(mongoose@8.24.4)(ocache@0.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(sequelize@6.37.8(pg@8.23.0))(surrealdb@2.0.8(tslib@2.8.1)(typescript@5.9.3))(typeorm@0.3.31(mongodb@6.21.0)(pg@8.23.0))(typescript@5.9.3)(yaml@2.9.0)
+        specifier: 0.1.0-beta.107
+        version: 0.1.0-beta.107(@mikro-orm/core@7.1.13)(@prisma/client@6.19.3(typescript@5.9.3))(@types/node@26.2.0)(@xata.io/client@0.30.1(typescript@5.9.3))(crossws@0.4.12(srvx@1.0.5))(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))(jiti@2.7.0)(kysely@0.28.17)(lightningcss@1.33.0)(mongodb@6.21.0)(mongoose@8.24.4)(ocache@0.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(sequelize@6.37.8(pg@8.23.0))(surrealdb@2.0.8(tslib@2.8.1)(typescript@5.9.3))(typeorm@0.3.31(mongodb@6.21.0)(pg@8.23.0))(typescript@5.9.3)(yaml@2.9.0)
       react:
         specifier: 19.2.8
         version: 19.2.8
@@ -19,8 +19,8 @@ importers:
         version: 19.2.8(react@19.2.8)
     devDependencies:
       '@farm.js/cli':
-        specifier: 0.1.0-beta.106
-        version: 0.1.0-beta.106(@mikro-orm/core@7.1.13)(@prisma/client@6.19.3(typescript@5.9.3))(@types/node@26.2.0)(@xata.io/client@0.30.1(typescript@5.9.3))(crossws@0.4.12(srvx@1.0.5))(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))(jiti@2.7.0)(kysely@0.28.17)(lightningcss@1.33.0)(mongodb@6.21.0)(mongoose@8.24.4)(ocache@0.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(sequelize@6.37.8(pg@8.23.0))(surrealdb@2.0.8(tslib@2.8.1)(typescript@5.9.3))(typeorm@0.3.31(mongodb@6.21.0)(pg@8.23.0))(typescript@5.9.3)(yaml@2.9.0)
+        specifier: 0.1.0-beta.107
+        version: 0.1.0-beta.107(@mikro-orm/core@7.1.13)(@prisma/client@6.19.3(typescript@5.9.3))(@types/node@26.2.0)(@xata.io/client@0.30.1(typescript@5.9.3))(crossws@0.4.12(srvx@1.0.5))(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))(jiti@2.7.0)(kysely@0.28.17)(lightningcss@1.33.0)(mongodb@6.21.0)(mongoose@8.24.4)(ocache@0.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(sequelize@6.37.8(pg@8.23.0))(surrealdb@2.0.8(tslib@2.8.1)(typescript@5.9.3))(typeorm@0.3.31(mongodb@6.21.0)(pg@8.23.0))(typescript@5.9.3)(yaml@2.9.0)
       '@types/react':
         specifier: ^19.0.0
         version: 19.2.18
@@ -569,13 +569,13 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@farm.js/cli@0.1.0-beta.106':
-    resolution: {integrity: sha512-QvF5yiN9DmQMeK86OwVOVGjRCKBHshKWQPKQJqyVQkYge8W9a8zTLWTYtpPlns1zhG4lZ8z1xf60saSNR4S2qw==}
+  '@farm.js/cli@0.1.0-beta.107':
+    resolution: {integrity: sha512-f6OEElv5B9LFEABkJ1Edyg31MYyCkshkorXZPzsymAtjGELfW6orfuWzd8JPWnBIkXaADm6DZd9O1sznnMDcUw==}
     engines: {node: '>=22.13.0'}
     hasBin: true
 
-  '@farm.js/core@0.1.0-beta.106':
-    resolution: {integrity: sha512-bIPRecyq65v2JPkxYeJeD+GkZRXq2puZG9iI+Zejsdhj2KlQBa5NoTfgU6D7W9SlPfa4QHQQXL2v9mSlzlQK1A==}
+  '@farm.js/core@0.1.0-beta.107':
+    resolution: {integrity: sha512-vTnN0qKyb5+41KfKUyOhlwLgV4Qt1VLSch5HOLX1IeXDcizX9KQHr+/pMxjvhCt5P/LdCUnp2aHdl+gGZj2hEQ==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
       react: ^18.2.0 || ^19.0.0
@@ -4066,9 +4066,6 @@ packages:
   unstorage@2.0.0-alpha.10:
     resolution: {integrity: sha512-6h1veZp8gnp4dGllf0tDijoXxDYymJu251IpKKkrSVH+QHL6tXFbwG85KM+CBHSgpkkgtPuIiZ9oLCLP5+1Evw==}
 
-  unstorage@2.0.0-alpha.9:
-    resolution: {integrity: sha512-zUVLVO5Vci1vu1aTYkopEUgKhnemAvH3qv7PuNIxFtA8jGaCTVp+AbRwrVyldo81WIK7EU/bXB/cJWVJtJ7//A==}
-
   update-browserslist-db@1.3.1:
     resolution: {integrity: sha512-ZZ61DsRsOnakl74HAmp3oSN4aXUmEWXf+i/yv0h7tIBfICc3VdrFErQKUUKPgu3AMsTUMbcongALEN4l6GSUrQ==}
     hasBin: true
@@ -4894,9 +4891,9 @@ snapshots:
   '@esbuild/win32-x64@0.28.2':
     optional: true
 
-  '@farm.js/cli@0.1.0-beta.106(@mikro-orm/core@7.1.13)(@prisma/client@6.19.3(typescript@5.9.3))(@types/node@26.2.0)(@xata.io/client@0.30.1(typescript@5.9.3))(crossws@0.4.12(srvx@1.0.5))(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))(jiti@2.7.0)(kysely@0.28.17)(lightningcss@1.33.0)(mongodb@6.21.0)(mongoose@8.24.4)(ocache@0.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(sequelize@6.37.8(pg@8.23.0))(surrealdb@2.0.8(tslib@2.8.1)(typescript@5.9.3))(typeorm@0.3.31(mongodb@6.21.0)(pg@8.23.0))(typescript@5.9.3)(yaml@2.9.0)':
+  '@farm.js/cli@0.1.0-beta.107(@mikro-orm/core@7.1.13)(@prisma/client@6.19.3(typescript@5.9.3))(@types/node@26.2.0)(@xata.io/client@0.30.1(typescript@5.9.3))(crossws@0.4.12(srvx@1.0.5))(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))(jiti@2.7.0)(kysely@0.28.17)(lightningcss@1.33.0)(mongodb@6.21.0)(mongoose@8.24.4)(ocache@0.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(sequelize@6.37.8(pg@8.23.0))(surrealdb@2.0.8(tslib@2.8.1)(typescript@5.9.3))(typeorm@0.3.31(mongodb@6.21.0)(pg@8.23.0))(typescript@5.9.3)(yaml@2.9.0)':
     dependencies:
-      '@farm.js/core': 0.1.0-beta.106(@mikro-orm/core@7.1.13)(@prisma/client@6.19.3(typescript@5.9.3))(@types/node@26.2.0)(@xata.io/client@0.30.1(typescript@5.9.3))(crossws@0.4.12(srvx@1.0.5))(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))(jiti@2.7.0)(kysely@0.28.17)(lightningcss@1.33.0)(mongodb@6.21.0)(mongoose@8.24.4)(ocache@0.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(sequelize@6.37.8(pg@8.23.0))(surrealdb@2.0.8(tslib@2.8.1)(typescript@5.9.3))(typeorm@0.3.31(mongodb@6.21.0)(pg@8.23.0))(typescript@5.9.3)(yaml@2.9.0)
+      '@farm.js/core': 0.1.0-beta.107(@mikro-orm/core@7.1.13)(@prisma/client@6.19.3(typescript@5.9.3))(@types/node@26.2.0)(@xata.io/client@0.30.1(typescript@5.9.3))(crossws@0.4.12(srvx@1.0.5))(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))(jiti@2.7.0)(kysely@0.28.17)(lightningcss@1.33.0)(mongodb@6.21.0)(mongoose@8.24.4)(ocache@0.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(sequelize@6.37.8(pg@8.23.0))(surrealdb@2.0.8(tslib@2.8.1)(typescript@5.9.3))(typeorm@0.3.31(mongodb@6.21.0)(pg@8.23.0))(typescript@5.9.3)(yaml@2.9.0)
       '@farm.js/tunnel': 0.1.1
       commander: 11.1.0
       croner: 9.1.0
@@ -4966,7 +4963,7 @@ snapshots:
       - uploadthing
       - yaml
 
-  '@farm.js/core@0.1.0-beta.106(@mikro-orm/core@7.1.13)(@prisma/client@6.19.3(typescript@5.9.3))(@types/node@26.2.0)(@xata.io/client@0.30.1(typescript@5.9.3))(crossws@0.4.12(srvx@1.0.5))(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))(jiti@2.7.0)(kysely@0.28.17)(lightningcss@1.33.0)(mongodb@6.21.0)(mongoose@8.24.4)(ocache@0.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(sequelize@6.37.8(pg@8.23.0))(surrealdb@2.0.8(tslib@2.8.1)(typescript@5.9.3))(typeorm@0.3.31(mongodb@6.21.0)(pg@8.23.0))(typescript@5.9.3)(yaml@2.9.0)':
+  '@farm.js/core@0.1.0-beta.107(@mikro-orm/core@7.1.13)(@prisma/client@6.19.3(typescript@5.9.3))(@types/node@26.2.0)(@xata.io/client@0.30.1(typescript@5.9.3))(crossws@0.4.12(srvx@1.0.5))(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))(jiti@2.7.0)(kysely@0.28.17)(lightningcss@1.33.0)(mongodb@6.21.0)(mongoose@8.24.4)(ocache@0.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(sequelize@6.37.8(pg@8.23.0))(surrealdb@2.0.8(tslib@2.8.1)(typescript@5.9.3))(typeorm@0.3.31(mongodb@6.21.0)(pg@8.23.0))(typescript@5.9.3)(yaml@2.9.0)':
     dependencies:
       '@farming-labs/docs': 0.2.111(react@19.2.8)(supports-color@10.2.2)
       '@farming-labs/orm': 0.0.62
@@ -4997,7 +4994,7 @@ snapshots:
       sugar-high: 0.9.5
       supports-color: 10.2.2
       tailwindcss: 4.1.18
-      unstorage: 2.0.0-alpha.9
+      unstorage: 2.0.0-alpha.10
       vite: 5.4.21(@types/node@26.2.0)(lightningcss@1.33.0)
       zod: 4.4.3
     optionalDependencies:
@@ -8919,8 +8916,6 @@ snapshots:
       db0: 0.3.4(drizzle-orm@0.45.2(@opentelemetry/api@1.9.1)(@prisma/client@6.19.3(typescript@5.9.3))(@xata.io/client@0.30.1(typescript@5.9.3))(kysely@0.28.17)(pg@8.23.0))
 
   unstorage@2.0.0-alpha.10: {}
-
-  unstorage@2.0.0-alpha.9: {}
 
   update-browserslist-db@1.3.1(browserslist@4.28.8):
     dependencies:
