@@ -10,13 +10,13 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@farm.js/core": "0.1.36",
+    "@farm.js/core": "0.1.42",
     "react": "19.2.8",
     "react-dom": "19.2.8",
     "sharp": "^0.35.5"
   },
   "devDependencies": {
-    "@farm.js/cli": "0.1.36",
+    "@farm.js/cli": "0.1.42",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "typescript": "^5.3.3"
